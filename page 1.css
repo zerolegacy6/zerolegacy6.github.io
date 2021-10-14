@@ -1,0 +1,49 @@
+body
+{
+	background-image: linear-gradient(to left,tan,white,beige);
+	margin:20px;
+	padding:0;
+	font-family: arial;
+	font-size: 15;
+}
+h2, h3, h4, h5, h6 
+{
+	font-size:18;
+}
+h1 
+{
+	font-size: 30;
+}
+a
+{
+	font:bold;
+}
+
+topnav
+ {
+	background-color:none;
+	overflow:hidden;
+}
+
+topnav a {
+	
+	color:red;
+	text-align:center;
+	font-size:15;
+	font-family: arial bold;
+	padding:14px 16px;
+
+}
+
+
+header
+{
+	background-color:none;
+	width:300px;
+	height:40px;
+	
+}
+div {
+	column-count:2;
+	
+}
